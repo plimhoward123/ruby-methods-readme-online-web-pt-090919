@@ -12,4 +12,4 @@ def greeting
   puts phrase
 end
 
-say_hello_world_ten_times
+greeting
